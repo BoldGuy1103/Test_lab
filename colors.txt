@@ -1,0 +1,2 @@
+primary color #24195d
+second color #fe0000
